@@ -1,1 +1,1 @@
-worker: approvev4.py
+worker: python approvev4.py
